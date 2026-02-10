@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus
 
-**`Desenvolvedor em constante aprendizado`**
+**`Desenvolvedor em Eterno Aprendizado`**
 
 Me chamo Matheus, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação na USJT. Meu objetivo é ser um facilitador da transformação digital, elevando a eficiência operacional e contribuindo para a vantagem competitiva das organizações. Acredito que o sucesso está na combinação de visão estratégica, inovação tecnológica e um compromisso genuíno com o cliente. 
 
