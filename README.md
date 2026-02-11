@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2000&pause=500&color=8A2BE2&width=435&lines=Welcome+to;souzamathh's Github" alt="Welcome to souzamathh's Github"/>
 </a>
 
-**`Dev in Lifelong Learning`**
+**`♾️ Eternal Learner Developer`**
 
 My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently studying Computer Science at USJT. I believe that success lies in the combination of strategic vision, technological innovation, and a genuine commitment to the client.
 
