@@ -1,8 +1,12 @@
-# 👩🏻‍💻 Matheus
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" alt="header"/>
 
-**`Desenvolvedor em Eterno Aprendizado`**
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2000&pause=500&color=8A2BE2&width=435&lines=Welcome+to;souzamathh's Github" alt="Welcome to souzamathh's Github"/>
+</a>
 
-Me chamo Matheus, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação na USJT. Meu objetivo é ser um facilitador da transformação digital, elevando a eficiência operacional e contribuindo para a vantagem competitiva das organizações. Acredito que o sucesso está na combinação de visão estratégica, inovação tecnológica e um compromisso genuíno com o cliente. 
+**`Dev in Lifelong Learning`**
+
+My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently studying Computer Science at USJT. I believe that success lies in the combination of strategic vision, technological innovation, and a genuine commitment to the client.
 
 ---
 
@@ -85,8 +89,8 @@ Me chamo Matheus, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando 
     title="Vercel"
     width="30px" 
     style="padding-right: 10px;" 
-    xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 121.3 512.1 269.6"><path d="M458.1 229.1c-25.1 0-46.2-17.2-52.2-40.4h-61.8c-13.2 0-24.4 9.5-26.6 22.5l-2.2 13.3c-2 12.2-8.2 23.4-17.5 31.6 9.3 8.2 15.5 19.3 17.5 31.6l2.2 13.3c2.2 13 13.4 22.5 26.6 22.5h7.9c6-23.2 27.1-40.4 52.2-40.4 29.8 0 53.9 24.1 53.9 53.9s-24.1 53.9-53.9 53.9c-25.1 0-46.2-17.2-52.2-40.4h-7.9c-26.3 0-48.8-19-53.2-45l-2.2-13.3c-2.2-13-13.4-22.5-26.6-22.5h-21.4c-6 23.2-27.1 40.4-52.2 40.4s-46.2-17.2-52.2-40.4H106c-6 23.2-27.1 40.4-52.2 40.4C24.1 309.9 0 285.8 0 256s24.1-53.9 53.9-53.9c25.1 0 46.2 17.2 52.2 40.4h30.3c6-23.2 27.1-40.4 52.2-40.4s46.2 17.2 52.2 40.4h21.4c13.2 0 24.4-9.5 26.6-22.5l2.2-13.3c4.3-26 26.8-45 53.2-45H406c6-23.2 27.1-40.4 52.2-40.4 29.8 0 53.9 24.1 53.9 53.9s-24.2 53.9-54 53.9m0-27c14.9 0 26.9-12.1 26.9-26.9s-12.1-26.9-26.9-26.9-26.9 12.1-26.9 26.9 12 26.9 26.9 26.9M53.9 282.9c14.9 0 26.9-12.1 26.9-26.9s-12.1-26.9-26.9-26.9-27 12-27 26.9 12.1 26.9 27 26.9M215.6 256c0 14.9-12.1 26.9-26.9 26.9s-26.9-12.1-26.9-26.9 12.1-26.9 26.9-26.9 26.9 12 26.9 26.9m215.6 80.8c0 14.9-12.1 26.9-26.9 26.9-14.9 0-26.9-12.1-26.9-26.9s12.1-26.9 26.9-26.9 26.9 12.1 26.9 26.9" style="fill-rule:evenodd;clip-rule:evenodd;fill:#ea4b71"/></svg>
-
+    xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 121.3 512.1 269.6"><path d="M458.1 229.1c-25.1 0-46.2-17.2-52.2-40.4h-61.8c-13.2 0-24.4 9.5-26.6 22.5l-2.2 13.3c-2 12.2-8.2 23.4-17.5 31.6 9.3 8.2 15.5 19.3 17.5 31.6l2.2 13.3c2.2 13 13.4 22.5 26.6 22.5h7.9c6-23.2 27.1-40.4 52.2-40.4 29.8 0 53.9 24.1 53.9 53.9s-24.1 53.9-53.9 53.9c-25.1 0-46.2-17.2-52.2-40.4h-7.9c-26.3 0-48.8-19-53.2-45l-2.2-13.3c-2.2-13-13.4-22.5-26.6-22.5h-21.4c-6 23.2-27.1 40.4-52.2 40.4s-46.2-17.2-52.2-40.4H106c-6 23.2-27.1 40.4-52.2 40.4C24.1 309.9 0 285.8 0 256s24.1-53.9 53.9-53.9c25.1 0 46.2 17.2 52.2 40.4h30.3c6-23.2 27.1-40.4 52.2-40.4s46.2 17.2 52.2 40.4h21.4c13.2 0 24.4-9.5 26.6-22.5l2.2-13.3c4.3-26 26.8-45 53.2-45H406c6-23.2 27.1-40.4 52.2-40.4 29.8 0 53.9 24.1 53.9 53.9s-24.2 53.9-54 53.9m0-27c14.9 0 26.9-12.1 26.9-26.9s-12.1-26.9-26.9-26.9-26.9 12.1-26.9 26.9 12 26.9 26.9 26.9M53.9 282.9c14.9 0 26.9-12.1 26.9-26.9s-12.1-26.9-26.9-26.9-27 12-27 26.9 12.1 26.9 27 26.9M215.6 256c0 14.9-12.1 26.9-26.9 26.9s-26.9-12.1-26.9-26.9 12.1-26.9 26.9-26.9 26.9 12 26.9 26.9m215.6 80.8c0 14.9-12.1 26.9-26.9 26.9-14.9 0-26.9-12.1-26.9-26.9s12.1-26.9 26.9-26.9 26.9 12.1 26.9 26.9" style="fill-rule:evenodd;clip-rule:evenodd;fill:#ea4b71"/>
+</svg>
 <img
     align="left" 
     alt="Vercel" 
@@ -99,13 +103,10 @@ Me chamo Matheus, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzamathh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas:
+<p align="center">
+    <a href="https://github.com/souzamathh">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souzamathh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souzamathh&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
