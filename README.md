@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" alt="header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=3000&pause=1000&color=8A2BE2&repeat=true&width=435&lines=Welcome+to+souzamathh's+Github!" alt="Typing SVG"/></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=076AFF&height=120&section=header" alt="header"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=3000&pause=1000&color=076AFF&repeat=true&width=435&lines=Welcome+to+souzamathh's+Github!" alt="Typing SVG"/></a>
 
 **`♾️ lifelong learner developer`**
 
@@ -101,4 +101,4 @@ My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently stud
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=076AFF&height=120&section=footer" alt="footer"/>
