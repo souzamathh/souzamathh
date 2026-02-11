@@ -1,16 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2000&pause=500&color=8A2BE2&width=435&lines=Welcome+to;souzamathh's Github" alt="Welcome to souzamathh's Github"/>
-</a>
-
-**`♾️ Eternal Learner Developer`**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=3000&pause=1000&color=8A2BE2&repeat=false&width=435&lines=Welcome+to+souzamathh's+Github!" alt="Typing SVG"/></a>
+**`♾️ lifelong learner developer`**
 
 My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently studying Computer Science at USJT. I believe that success lies in the combination of strategic vision, technological innovation, and a genuine commitment to the client.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Skill Set
 
 <img 
     align="left" 
@@ -103,10 +100,14 @@ My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently stud
 <br/>
 <br/>
 
-### 📊 Estatísticas:
-<p align="center">
-    <a href="https://github.com/souzamathh">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souzamathh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souzamathh&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
+### Statistics:
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souzamathh&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souzamathh&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souzamathh&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=souzamathh&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souzamathh&theme=default&utcOffset=8)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="footer"/>
