@@ -15,7 +15,7 @@ My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently stud
 
 | Tools | Deploy | Design | Others |
 |:---:|:---:|:---:|:---:|
-| <img src="/assets/n8n.png" alt="n8n" width="48" height="48" style="border-radius: 12px;"/> [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode)](https://skillicons.dev) | [![Deploy](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![Others](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev) |
+| <img src="/assets/n8n.png" alt="n8n" width="48" height="48"/> [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode)](https://skillicons.dev) | [![Deploy](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![Others](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev) |
 
 <br>
 
