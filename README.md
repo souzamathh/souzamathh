@@ -11,11 +11,11 @@ My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently stud
 
 | Languages | Frameworks & Web | Database |
 |:---:|:---:|:---:|
-| [![Languages](https://skillicons.dev/icons?i=ts,js,py)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,html,css)](https://skillicons.dev) | [![Database](https://skillicons.dev/icons?i=supabase,mysql)](https://skillicons.dev) |
+| [![Languages](https://skillicons.dev/icons?i=ts,js,py)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,html,css)](https://skillicons.dev) | [![Database](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) |
 
 | Tools | Deploy | Design | Others |
 |:---:|:---:|:---:|:---:|
-| <img src="/assets/n8n.png" alt="n8n" width="48" height="48"/> [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode)](https://skillicons.dev) | [![Deploy](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![Others](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev) |
+| <img src="/assets/n8n.png" alt="n8n" width="48" height="48"/> [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev) | [![Deploy](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![Others](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev) |
 
 <br>
 
