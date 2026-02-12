@@ -8,8 +8,15 @@ My name is Matheus, I'm 21 years old and I'm from São Paulo. I'm currently stud
 ---
 
 ### Skill Set
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,react,nodejs,html,css,git,postman,supabase,mysql,docker,vercel,netlify,vscode,github,figma,ps,notion)](https://skillicons.dev)
-<br/>
+| Languages | Frameworks & Web | Database |
+|:---:|:---:|:---:|
+| [![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,html,css)](https://skillicons.dev) | [![Database](https://skillicons.dev/icons?i=supabase,mysql)](https://skillicons.dev) |
+
+| Tools | Deploy | Design | Others |
+|:---:|:---:|:---:|:---:|
+| [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode)](https://skillicons.dev) | [![Deploy](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![Others](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev) |
+
+<br>
 
 ### Statistics:
 
